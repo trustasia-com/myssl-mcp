@@ -4,7 +4,7 @@
 
 MySSL is a site inspection tool developed by TrustAsia (official website: [MySSL](https://myssl.com)), which supports a series of inspections for site security certificates. With MySSL MCP, it is possible to integrate with LLM models. The MySSL MCP inspection tool can inspect sites and provide inspection results for further analysis and processing by LLM models.
 
-Below is a demonstration of configuring MySSL MCP and performing site inspection using Cline:
+Below is a demonstration of configuring MySSL MCP and performing site inspection using Cline.
 
 ## Demonstration with Cline
 
