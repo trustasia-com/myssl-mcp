@@ -44,7 +44,7 @@ Below is a demonstration of configuring MySSL MCP and performing site inspection
 1. Clone repository
 
 ```
-git clone https://github.com/trustasia-com/myssl-mcp.git
+git clone https://github.com/trustasia-com/myssl-mcp-python.git
 ```
 
 2. Configure MCP server and run
@@ -58,7 +58,7 @@ Copy the below json with the appropriate {{PATH}} values:
       "command": "{{PATH_TO_UV}}", // Run `which uv` and place the output here
       "args": [
         "--directory",
-        "{{PATH_TO_SRC}}/myssl-mcp/myssl-mcp-server",
+        "{{PATH_TO_SRC}}/myssl-mcp-python/myssl-mcp-server",
         "run",
         "server.py"
       ]
